@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Core</DisplayName>
+    <Description>EMM main window</Description>
+	<Description xml:lang="de_de">EMM Hauptfenster</Description>
+    <Version>3.0.0-1</Version>
+    <ReleaseDate>2018-01-14</ReleaseDate>
+	<Licenses>
+        <License name="GPLv3" file="gpl-3.0.txt" />
+    </Licenses>
+    <Default>true</Default>
+	<ForcedInstallation>true</ForcedInstallation>
+</Package>

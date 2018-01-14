@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Event Music Machine</Name>
+    <Version>3.0.0</Version>
+    <Title>Event Music Machine Installer</Title>
+    <Publisher>Christoph Kraemer</Publisher>
+    <StartMenuDir>Event Music Machine</StartMenuDir>
+    <TargetDir>@ApplicationsDirX64@/EMM</TargetDir>
+    <RemoteRepositories>
+        <Repository>
+            <Url>http://repo.eventmusicmachine.de/windows</Url>
+        </Repository>
+    </RemoteRepositories>
+</Installer>
